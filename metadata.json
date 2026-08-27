@@ -1,0 +1,6 @@
+{
+  "name": "Agenda Kelas SMKN Bojonggambir",
+  "description": "Aplikasi Administrasi Agenda Kelas Kurikulum Merdeka SMKN Bojonggambir berbasis Google Apps Script dan Web Interface dengan integrasi Google Spreadsheet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
